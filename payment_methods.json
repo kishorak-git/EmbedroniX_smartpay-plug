@@ -1,0 +1,10 @@
+[
+    {
+        "id": 1,
+        "upi_id": "ajayajay1910206@oksbi",
+        "merchant_name": "SmartPayPlug",
+        "is_active": true,
+        "is_blocked": false,
+        "priority": 1
+    }
+]
